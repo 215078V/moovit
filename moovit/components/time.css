@@ -1,0 +1,16 @@
+.digital-clock {
+    font-family: 'Digital-7', sans-serif; /* Digital font style */
+    font-size: 48px;
+    font-weight: bold;
+    letter-spacing: 2px;
+    color: #00ff00; /* Green color for digital clock */
+    background-color: black;
+    padding: 20px;
+    border-radius: 10px;
+    display: inline-block;
+    box-shadow: 0 0 20px rgba(0, 255, 0, 0.6);
+    text-align: center;
+  }
+  
+  /* You can also import a digital font from Google Fonts or any external source */
+  
