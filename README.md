@@ -7,7 +7,7 @@ Follow these steps to set up and run the expo project locally:
 
 ### 1. Clone the Repository  
 ```bash  
-git clone https://github.com/your-username/moovit.git  
+git clone https://github.com/215078V/moovit.git  
 cd moovit  
 ```
 
@@ -25,7 +25,7 @@ Follow these steps to set up and run the express backend locally:
 
 ### 1. Clone the Repository  
 ```bash  
-git clone https://github.com/your-username/moovit.git  
+git clone https://github.com/215078V/moovit.git  
 cd moovit_backend  
 ```
 
